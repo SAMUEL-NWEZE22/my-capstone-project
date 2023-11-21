@@ -40,7 +40,7 @@ The report comprises of two pages:
 ###   You can interact with the report [here] (link to power bi service).
 
 ##  ANALYSIS of pizza sales Dashboard
-![](new_pizzadb.PNG)
+![](pizzas_saleDB.PNG)
 
 ##  Features
 There are 5 kpi’s measuring the overall performance of the store and 3 slicers which are category, size and months as filters.
